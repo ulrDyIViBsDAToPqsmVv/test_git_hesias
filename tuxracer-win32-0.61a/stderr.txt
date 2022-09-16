@@ -1,0 +1,8 @@
+Tux Racer 0.61 -- a Sunspire Studios Production (http://www.sunspirestudios.com)
+(c) 1999-2000 Jasmin F. Patry <jfpatry@sunspirestudios.com>
+"Tux Racer" is a trademark of Jasmin F. Patry
+Tux Racer comes with ABSOLUTELY NO WARRANTY. This is free software,
+and you are welcome to redistribute it under certain conditions.
+See http://www.gnu.org/copyleft/gpl.html for details.
+
+%%% tuxracer warning: course angle is too large. Setting to 0.000000
